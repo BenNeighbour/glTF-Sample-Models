@@ -79,16 +79,16 @@
   ],
   "images": [
     {
-      "uri": "BoomBox_baseColor.png"
+      "uri": "https://raw.githubusercontent.com/BenNeighbour/glTF-Sample-Models/master/2.0/BoomBox/glTF/BoomBox_baseColor.png"
     },
     {
-      "uri": "BoomBox_occlusionRoughnessMetallic.png"
+      "uri": "https://raw.githubusercontent.com/BenNeighbour/glTF-Sample-Models/master/2.0/BoomBox/glTF/BoomBox_occlusionRoughnessMetallic.png"
     },
     {
-      "uri": "BoomBox_normal.png"
+      "uri": "https://raw.githubusercontent.com/BenNeighbour/glTF-Sample-Models/master/2.0/BoomBox/glTF/BoomBox_normal.png"
     },
     {
-      "uri": "BoomBox_emissive.png"
+      "uri": "https://raw.githubusercontent.com/BenNeighbour/glTF-Sample-Models/master/2.0/BoomBox/glTF/BoomBox_emissive.png"
     }
   ],
   "meshes": [
