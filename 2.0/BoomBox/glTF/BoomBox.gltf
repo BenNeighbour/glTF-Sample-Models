@@ -73,7 +73,7 @@
   ],
   "buffers": [
     {
-      "uri": "BoomBox.bin",
+      "uri": "https://raw.githubusercontent.com/BenNeighbour/glTF-Sample-Models/master/2.0/BoomBox/glTF/BoomBox.bin",
       "byteLength": 207816
     }
   ],
