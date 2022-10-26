@@ -98,7 +98,7 @@
     "buffers" : [
         {
             "byteLength" : 69248,
-            "uri" : "sphere.bin"
+            "uri" : "https://raw.githubusercontent.com/BenNeighbour/glTF-Sample-Models/master/2.0/sphere.bin"
         }
     ]
 }
